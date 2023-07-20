@@ -1,3 +1,6 @@
 h1 {
   color: blue;
 }
+.btn btn-primary {
+  display: inline;
+}
